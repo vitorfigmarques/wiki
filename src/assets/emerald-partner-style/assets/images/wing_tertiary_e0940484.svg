@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="656px" height="1273px" viewBox="0 0 656 1273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>wing_tertiary</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,47.4740155 L0,1225.48854 C0,1254.09276 23.2408108,1273 47.4562363,1273 L47.4562363,1273 C59.0766418,1273 70.8844731,1268.65695 80.4806788,1258.99741 L80.4806788,1258.99741 L624.653019,712.522073 C666.448994,670.514308 666.448994,602.410811 624.653019,560.440487 L624.653019,560.440487 L80.4806788,13.9651481 C70.8844731,4.30560866 59.0766418,0 47.4562363,0 L47.4562363,0 C23.2408108,0 0,18.907238 0,47.4740155 L0,47.4740155 Z" id="path-1"></path>
+    </defs>
+    <g id="wing_tertiary" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-4"></g>
+            <polygon id="Fill-3" fill="#082558" mask="url(#mask-2)" points="-187 1461 843 1461 843 -187 -187 -187"></polygon>
+        </g>
+    </g>
+</svg>

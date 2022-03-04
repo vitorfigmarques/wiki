@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="820px" height="460px" viewBox="0 0 820 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 3 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="38.5199653%" x2="1.19480349%" y2="61.4800347%" id="linearGradient-1">
+            <stop stop-color="#7CCECD" offset="0%"></stop>
+            <stop stop-color="#73B3AC" offset="22.5381077%"></stop>
+            <stop stop-color="#00B7B4" offset="45.8990284%"></stop>
+            <stop stop-color="#00B7B4" offset="66.7223886%"></stop>
+            <stop stop-color="#009290" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 0 960 0 960 460 0 460"></polygon>
+    </defs>
+    <g id="home---tela-grande" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rascunho-de-home-tela-grande" transform="translate(-1100.000000, -1499.000000)">
+            <g id="Group-3-Copy-2" transform="translate(1100.000000, 1499.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M646.525717,120.774082 C635.313076,109.629473 617.135005,109.629473 605.932357,120.774082 L568.097186,158.415875 L563.740046,154.077973 C563.570157,153.888065 563.510196,153.648181 563.320321,153.458273 L417.466038,8.35845705 C406.26339,-2.78615235 388.075326,-2.78615235 376.872677,8.35845705 L7.89481903,414.611954 C2.42840636,420.009343 0,426.676119 0,433.242942 C0,446.906333 10.6829893,460 26.7924175,460 L933.187596,460 C949.327004,460 960,446.906333 960,433.242942 C960,426.676119 957.571594,420.009343 952.115174,414.611954" id="Fill-1" fill="url(#linearGradient-1)" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="366px" viewBox="0 0 159 366" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="61.5732604%" y1="0%" x2="38.703295%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7CCECD" offset="0%"></stop>
+            <stop stop-color="#73B3AC" offset="22.5381077%"></stop>
+            <stop stop-color="#00B7B4" offset="45.8990284%"></stop>
+            <stop stop-color="#00B7B4" offset="66.7223886%"></stop>
+            <stop stop-color="#009290" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="home-e-sobre" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sobre-NOVA" transform="translate(-1281.000000, -1838.000000)" fill="url(#linearGradient-1)">
+            <path d="M1453.15409,1825.26484 C1455.39933,1823.00425 1458.1675,1822 1460.89,1822 C1466.56328,1822 1472,1826.41373 1472,1833.09218 L1472,2207.92435 C1472,2214.58627 1466.56328,2219 1460.89,2219 C1458.1675,2219 1455.39933,2217.99575 1453.15409,2215.7393 L1284.47058,2063.15158 C1279.84314,2058.51468 1279.84314,2050.99729 1284.47058,2046.36453 L1344.71854,1986.04358 C1344.7974,1985.96505 1344.89285,1985.94439 1344.97585,1985.87 L1346.77288,1984.07228 L1331.1475,1968.42586 C1326.52006,1963.79309 1326.52006,1956.27157 1331.1475,1951.63468 L1453.15409,1825.26484 Z" id="Fill-1"></path>
+        </g>
+    </g>
+</svg>

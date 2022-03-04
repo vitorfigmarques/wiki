@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1303px" height="1274px" viewBox="0 0 1303 1274" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 5 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.5,2379.27627 C0.5,2434.79946 45.5999271,2471.5 92.5911416,2471.5 C115.141105,2471.5 138.054778,2463.06978 156.676683,2444.3198 L1212.66965,1383.56523 C1293.77678,1302.02463 1293.77678,1169.83002 1212.66965,1088.36209 L156.676683,27.6075262 C138.054778,8.85754831 115.141105,0.5 92.5911416,0.5 C45.5999271,0.5 0.5,37.2005382 0.5,92.6510544 L0.5,2379.27627 Z" id="path-1"></path>
+    </defs>
+    <g id="home-e-sobre" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sobre-NOVA" transform="translate(0.000000, -200.000000)">
+            <g id="Group-5-Copy" transform="translate(67.000000, 837.000000) rotate(-270.000000) translate(-67.000000, -837.000000) translate(-570.000000, -399.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <polygon id="Fill-3" fill="#082558" mask="url(#mask-2)" points="-350.5 2652 1647.5 2652 1647.5 -546 -350.5 -546"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

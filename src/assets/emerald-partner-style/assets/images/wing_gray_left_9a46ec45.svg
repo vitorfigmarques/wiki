@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="638px" height="1239px" viewBox="0 0 638 1239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 6 Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M545.2568,31.247127 L13.5867985,559.820895 C4.18895932,569.14267 0,580.649236 0,591.90091 L0,591.90091 C0,615.423826 18.3949953,638 46.1878297,638 L46.1878297,638 L1192.25067,638 C1220.07993,638 1238.51135,615.423826 1238.51135,591.90091 L1238.51135,591.90091 C1238.51135,580.649236 1234.28597,569.14267 1224.8517,559.820895 L1224.8517,559.820895 L693.218129,31.247127 C672.783292,10.9285707 646.010378,0.769292605 619.237465,0.769292605 L619.237465,0.769292605 C592.464551,0.769292605 565.691637,10.9285707 545.2568,31.247127 L545.2568,31.247127 Z" id="path-1"></path>
+    </defs>
+    <g id="gateway---tela-grande" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1215.000000, -1472.000000)">
+            <g id="Group-6-Copy-5" transform="translate(1534.500000, 2091.000000) scale(-1, 1) rotate(-90.000000) translate(-1534.500000, -2091.000000) translate(915.000000, 1772.000000)">
+                <g id="Group-5">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Clip-4" fill="#F9F9F9" xlink:href="#path-1"></use>
+                    <polygon id="Fill-3" fill="#F9F9F9" mask="url(#mask-2)" points="-182.128666 820.065916 1420.6036 820.065916 1420.6036 -181.296624 -182.128666 -181.296624"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
