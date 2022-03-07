@@ -1,0 +1,9 @@
+<div class="app-card" [routerLink]="['/post', post.id]" style="cursor: pointer">
+  <img class="app-card-image" [src]="post.imagesUrl.thumbnail" alt="" />
+
+  <div class="app-card-header">
+    <h1 class="emd-text _size_subpage _type_bold">{{ post.title }}</h1>
+  </div>
+
+  <div class="app-card-body">{{ post.description }}</div>
+</div>

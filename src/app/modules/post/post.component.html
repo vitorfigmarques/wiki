@@ -1,0 +1,19 @@
+<div class="emd-container">
+  <ng-container *ngIf="post$ | async as post">
+    <div class="emd-container__header eu-column">
+      <img [src]="post.imagesUrl.small" />
+      <h2
+        class="emd-text _size_page el-section _weight_bold"
+        style="text-align: center"
+      >
+        {{ post.title }}
+      </h2>
+    </div>
+
+    <div style="text-align: justify" class="emd-container__content">
+      <p class="emd-text">
+        <markdown> {{ post.content }}</markdown>
+      </p>
+    </div>
+  </ng-container>
+</div>

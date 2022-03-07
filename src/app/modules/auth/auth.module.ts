@@ -1,19 +1,18 @@
-import { PostComponent } from './post/post.component';
 import { RouterModule } from '@angular/router';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { HomeComponent } from './home.component';
+import { AuthComponent } from './auth.component';
 
 @NgModule({
-  declarations: [HomeComponent, PostComponent],
+  declarations: [AuthComponent],
   imports: [
     CommonModule,
     RouterModule.forChild([
       {
         path: '',
-        component: HomeComponent,
+        component: AuthComponent,
       },
     ]),
   ],
 })
-export class HomeModule {}
+export class AuthModule {}

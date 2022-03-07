@@ -1,4 +1,13 @@
-<h1>Mais vistos</h1>
+<div class="emd-container eu-mt_5">
+  <div class="emd-container__header">
+    <h1 class="emd-text _size_page _type_bold" style="text-align: center">
+      Mais Recentes
+    </h1>
+  </div>
 
-
-<h1>Novidades!</h1>
+  <div class="emd-container__content">
+    <div class="el-grid-list">
+      <app-post *ngFor="let post of posts$ | async" [post]="post"></app-post>
+    </div>
+  </div>
+</div>

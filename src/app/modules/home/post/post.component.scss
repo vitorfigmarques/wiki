@@ -1,0 +1,28 @@
+.app-card {
+    display: grid;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+    grid-template-columns: 15rem 3fr;
+    grid-template-rows: 1fr 2fr;
+    grid-template-areas: "image header" "image body";
+
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+
+    .app-card-image {
+        height: 100%;
+        grid-area: image;
+    }
+    .app-card-header {
+        align-self: center;
+        padding-left: 1.2rem;
+        grid-area: header;
+    }
+    .app-card-body {
+        padding-left: 1.2rem;
+        grid-area: body;
+        text-align: justify;
+    }
+}
